@@ -1,3 +1,5 @@
+package section4;
+
 public class AreaCalculator {
     public static void main(String[] args) {
         System.out.println(area(5.0));

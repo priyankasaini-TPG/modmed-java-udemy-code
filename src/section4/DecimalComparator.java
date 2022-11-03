@@ -1,3 +1,5 @@
+package section4;
+
 public class DecimalComparator {
 
     public static void main(String[] args) {

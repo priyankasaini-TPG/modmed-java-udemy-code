@@ -1,3 +1,5 @@
+package section4;
+
 public class BarkingDog {
     public static boolean shouldWakeUp(boolean barking, int hourOfDay) {
 
